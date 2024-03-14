@@ -1,4 +1,4 @@
-# Sumador de Números en Archivo
+# Nombre del programa o proyecto
 
 Fecha:
 
