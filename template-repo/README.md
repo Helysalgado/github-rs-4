@@ -54,9 +54,3 @@ Si tiene problemas o preguntas, por favor abra un problema en este repositorio o
 
 
 
-
-ESTA ES UNA PRUEBA
-SAY MY NAME AND EVERYTHING JUST STOPS
-I DONT WANT YOU LIKE A BEST FRIEND
-ONLY BOUGHT THIS DRESS
-SO YOU COULD TAKE IT OFF
